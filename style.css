@@ -1,0 +1,41 @@
+body{
+    height: 100%;
+    background: url('./niederhorn-4425606__340.jpg');
+    
+    
+}
+section{
+    background:#eee;
+    padding: 40px;
+    border: 1px solid #ccc;
+    width: 300px;
+    margin: 40px auto;
+    text-align: center;
+    
+}
+ img{
+     border-radius: 99%;
+ }
+ ul li{
+     display: inline-block;
+ }
+ h1{
+     text-transform: uppercase;
+ }
+ .fa-twitter{
+     background:#00acee;
+ }
+ .fa-facebook{
+     background: #3b5998;
+
+ }
+ .fa{
+     padding: 10px;
+     color:#fff;
+     border-radius:100% 
+ }
+ 
+
+ 
+     
+ 
